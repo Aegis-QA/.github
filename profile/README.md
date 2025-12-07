@@ -1,4 +1,4 @@
-# AI-Based Test Case Generation
+# Aegis QA
 
 **Intelligent test case generation from requirements documents and UI screenshots using AI/LLM technology**
 
